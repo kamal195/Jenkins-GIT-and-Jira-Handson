@@ -31,7 +31,6 @@ $ git commit -m "first commit"
  1 file changed, 1 insertion(+)
  create mode 100644 welcome.txt
 
-CTS+894093@LTIN280843 MINGW64 /c/git-handsons (master)
 $ git status
 On branch master
 nothing to commit, working tree clean
