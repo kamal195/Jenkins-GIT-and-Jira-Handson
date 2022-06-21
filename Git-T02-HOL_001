@@ -35,14 +35,11 @@ $ git status
 On branch master
 nothing to commit, working tree clean
 
-CTS+894093@LTIN280843 MINGW64 /c/git-handsons (master)
 $ git remote add origin https://github.com/manishkumarc2c/Stage-3-handson
 
-CTS+894093@LTIN280843 MINGW64 /c/git-handsons (master)
 $ git push origin master
 Enumerating objects: 3, done.
 Counting objects: 100% (3/3), done.
 Writing objects: 100% (3/3), 252 bytes | 42.00 KiB/s, done.
 Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
-To https://github.com/manishkumarc2c/Stage-3-handson
  * [new branch]      master -> master
